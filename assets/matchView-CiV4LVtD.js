@@ -1,1 +1,0 @@
-import{_ as e}from"./MainHeader-Djzp4jeX.js";import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{k as r,f as _}from"./index-CP1D3VBk.js";const a={__name:"matchView",setup(c){return(o,s)=>(_(),r(e,{theme:"red",bgc:"purple-1"}))}},n=t(a,[["__scopeId","data-v-06996830"]]);export{n as default};
